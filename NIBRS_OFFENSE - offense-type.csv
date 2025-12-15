@@ -1,0 +1,27 @@
+offense_code,offense_name,crime_against,ct_flag,hc_flag,hc_code,offense_category_name,offense_group
+09C,Justifiable Homicide,Person,f,f,,Homicide Offenses,A
+09A,Murder and Nonnegligent Manslaughter,Person,f,t,1,Homicide Offenses,A
+09B,Negligent Manslaughter,Person,f,t,,Homicide Offenses,A
+11A,Rape,Person,f,t,2,Sex Offenses,A
+11B,Sodomy,Person,f,t,2,Sex Offenses,A
+11C,Sexual Assault With An Object,Person,f,t,2,Sex Offenses,A
+13A,Aggravated Assault,Person,f,t,4,Assault Offenses,A
+23A,Pocket-picking,Property,f,t,,Larceny/Theft Offenses,A
+120,Robbery,Property,t,t,3,Robbery,A
+220,Burglary/Breaking & Entering,Property,t,t,5,Burglary/Breaking & Entering,A
+240,Motor Vehicle Theft,Property,t,t,7,Motor Vehicle Theft,A
+100,Kidnapping/Abduction,Person,f,t,,Kidnapping/Abduction,A
+200,Arson,Property,f,t,8,Arson,A
+210,Extortion/Blackmail,Property,t,t,,Extortion/Blackmail,A
+23*,Not Specified,Property,f,t,6,Larceny/Theft Offenses,A
+13B,Simple Assault,Person,f,t,9,Assault Offenses,A
+13C,Intimidation,Person,f,t,10,Assault Offenses,A
+36A,Incest,Person,f,t,,"Sex Offenses, Non-forcible",A
+36B,Statutory Rape,Person,f,t,,"Sex Offenses, Non-forcible",A
+370,Pornography/Obscene Material,Society,f,t,,Pornography/Obscene Material,A
+40A,Prostitution,Society,f,t,,Prostitution Offenses,A
+40B,Assisting or Promoting Prostitution,Society,f,t,,Prostitution Offenses,A
+40C,Purchasing Prostitution,Society,f,t,,Prostitution Offenses,A
+520,Weapon Law Violations,Society,f,t,,Weapon Law Violations,A
+64A,"Human Trafficking, Commercial Sex Acts",Person,f,t,12,Human Trafficking,A
+64B,"Human Trafficking, Involuntary Servitude",Person,f,t,13,Human Trafficking,A

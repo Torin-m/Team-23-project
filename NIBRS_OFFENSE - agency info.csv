@@ -1,0 +1,3 @@
+yearly_agency_id,agency_id,data_year,ori,legacy_ori,covered_by_legacy_ori,direct_contributor_flag,dormant_flag,dormant_year,reporting_type,ucr_agency_name,ncic_agency_name,pub_agency_name,pub_agency_unit,agency_status,state_id
+127442024,12744,2024,NM0010000,NM0010000,,N,N,,I,BERNALILLO,BERNALILLO CO SO ALBUQUERQUE,Bernalillo,,A,36
+127452024,12745,2024,NM0010100,NM0010100,,N,N,,I,ALBUQUERQUE,ALBUQUERQUE PD,Albuquerque,,A,36
